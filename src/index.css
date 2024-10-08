@@ -1,22 +1,5 @@
 body {
-  background-color:#313e51;
-}
-
-.btn-custom-save{
-  background-color: #2a3233;
-  color : white;
-}
-
-.btn-custom-save:hover  {
-  color:white;
-}
-
-.btn-custom-edit { 
-  background-color: #73c3b3;
-  color : white;
-}
-
-.btn-custom-del {
-  background-color: #746cc4;
-  color: white;
+  color: #8a909d;
+  background: #eee;
+  margin-top: 20px;
 }
